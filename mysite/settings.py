@@ -25,7 +25,7 @@ SECRET_KEY = '9c9iqs0^i-!+2$z6xl4)9g=z5cb*50$08h!$4klaq%!7mcdo$g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["magdab.pythonanywhere.com"]
 
 
 # Application definition
